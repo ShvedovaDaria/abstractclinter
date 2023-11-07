@@ -1,3 +1,5 @@
+package hmwrk11;
+
 class Player implements Recodable {
     public void play() {
         System.out.println("Playing...");
